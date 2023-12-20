@@ -12,4 +12,4 @@ Around ten years in the software industry as a multiple-platforms developer, spe
 
 • Developed many apps across multiple domains: e-commerce, travel, banking, delivering etc, not only  limited to mobile but also web applications.
 
-###### [[My Resume]()]
+###### [[My Resume](CV_HoangNguyenHuu_AndroidDeveloper_Vietnam.pdf)]
